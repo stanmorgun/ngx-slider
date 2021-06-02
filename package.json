@@ -1,5 +1,5 @@
 {
-  "name": "@angular-slider/ngx-slider",
+  "name": "@angular-slider/ngx-slider-custom",
   "version": "2.0.3",
   "private": true,
   "description": "Self-contained, mobile friendly slider component for Angular 5+ based on angularjs-slider",
